@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "gps-app",
-    "slug": "gps-app"
+    "slug": "gps-app",
+    "plugins": [
+      "expo-localization"
+    ]
   }
 }
